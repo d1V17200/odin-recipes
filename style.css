@@ -1,0 +1,71 @@
+h1,
+button {
+    font-size: 48px;
+    font-weight: 800;
+    color: red;
+    font-family: Arial, Verdana, "Times-New-Roman";
+}
+
+button {
+    background-color: thistle;
+}
+
+.home-link {
+    font-size: 30px;
+    color: black;
+    font-family: Arial, Verdana, "Times-New-Roman";
+}
+
+.p-home{
+    font-size: 39px;
+    color: black;
+    font-family: Arial, Verdana, "Times-New-Roman";
+}
+
+h2 {
+    font-size: 34px;
+    color: black;
+    font-family: Arial, Verdana, "Times-New-Roman";
+}
+
+.p-recip {
+    font-size: 32px;
+    color: black;
+    font-family: Arial, Verdana, "Times-New-Roman";
+}
+
+h3 {
+    font-size: 30px;
+    color: black;
+    font-family: Arial, Verdana, "Times-New-Roman";
+}
+h4 {
+    font-size: 28px;
+    color: black;
+    font-family: Arial, Verdana, "Times-New-Roman";
+}
+
+.lists,
+.list-in {
+        font-size: 28px;
+        color: black;
+        font-family: Arial, Verdana, "Times-New-Roman";
+        outline-color: lightgreen;
+        outline-width: 10px;
+}
+.lists {
+    outline-style: outset;
+}
+
+.list-in {
+    outline-style: inset;
+}
+
+img:hover {
+    opacity: .5;
+}
+
+img {
+    height: 450px;
+    width: auto;
+}
